@@ -17,4 +17,4 @@ serta memberikan rekomendasi perbaikan layanan dan menu untuk KFC agar lebih kom
 - 📑 [review_kfc_jember.csv](https://github.com/yenirsmwati/KFC-Analysis/blob/main/review_kfc_jember.csv) → Raw dataset ulasan pelanggan google maps review KFC.
 - 📑 [review_mcd_jember.csv](https://github.com/yenirsmwati/KFC-Analysis/blob/main/review_mcd_jember.csv)→ Raw dataset ulasan pelanggan google maps review McDonald's.
 ## 📌PPT Hasil Analisis
-🚀[Klik di sini untuk melihat file PPT lengkap]()
+🚀[Klik di sini untuk melihat file PPT lengkap](https://docs.google.com/presentation/d/1cVtpSOUHEJLjyW8g_b7R3jtonIUSi6DC/edit?usp=sharing&ouid=116312443342283854478&rtpof=true&sd=true)
